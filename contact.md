@@ -23,18 +23,10 @@ Our teams mailing lists are:
 
  * [Team tech](mailto:team.tech@opentechschool.org) organises the tech parts of OTS, such as the GitHub accounts, email adresses, domains, etc. If you need help setting up a mailing list or any of the aforementioned points, send your email here.
 
-## Chat / IRC
+## Chat
 
-We also have our own chat channel on freenode:
-
-> \#OpenTechSchool
-
-> irc.freenode.net // 6667
-
-You can connect in a browser [here](http://webchat.freenode.net/?channels=#OpenTechschool)!
-
+Gitter:
 
 ## In person
 
 You are always very welcome to come talk with us after any meetup or workshop. If you're unsure whom to talk to, just ask the first person you see!
-
