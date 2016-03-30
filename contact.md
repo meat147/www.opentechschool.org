@@ -23,9 +23,16 @@ Our teams mailing lists are:
 
  * [Team tech](mailto:team.tech@opentechschool.org) organises the tech parts of OTS, such as the GitHub accounts, email adresses, domains, etc. If you need help setting up a mailing list or any of the aforementioned points, send your email here.
 
+<<<<<<< HEAD
 ## Chat
 
 Gitter:
+=======
+## Chat / Forums
+*  We us gitter to chat our main channel is located [here](https://gitter.im/OpenTechSchool/OpenTechSchool). You can find an overview of all channels [here](https://gitter.im/orgs/OpenTechSchool/rooms).
+
+* [Discourse](http://discourse.opentechschool.org/) you can also talk to us on our discourse Forum.
+>>>>>>> 71667ee6ea71e2c323a4b715d2a5d64cf1854a69
 
 ## In person
 
